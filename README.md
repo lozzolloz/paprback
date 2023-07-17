@@ -3,7 +3,10 @@
 
 A community platform to connect local people to discover and share second-hand books.
 
-https://bcpaprback.netlify.app
+Deployed link: https://bcpaprback.netlify.app
+
+This is a clone of the team repository to be hosted on my profile. You can find the original repo with all commits [here](https://github.com/benhensor/soc_byteclub_paprback). 
+
 ## Features
 
 ### List a book
